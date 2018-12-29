@@ -1,0 +1,1 @@
+insert into address values ("365021465769","Lahore","12", "MAll road"),("641289673415","New York","32", "Wall's Street")
